@@ -14,3 +14,7 @@ body {
 .block-title {
     margin-bottom: 30px;
 }
+.header {
+    background-image: url('https://iteam.ru/img/bg.jpg');
+    padding: 100px 20px;
+}
