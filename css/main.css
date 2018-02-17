@@ -117,3 +117,16 @@ body {
     background-size: cover;
     border: none !important;
 }
+
+.block-howto {
+    background-color: #4e0e60;
+}
+.block-attention-1 {
+    background-color: #9b2065;
+}
+.block-attention-2 {
+    background-color: #791e51;
+}
+.block-attention-3 {
+    background-color: #631340;
+}
