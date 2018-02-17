@@ -57,17 +57,26 @@ body {
 
 .card-footer-no-border {
     border: none !important;
+    background: none;
+}
+.block-categories {
+    color: #fff;
+    margin-bottom: 5px;
+    padding: 0 3px;
 }
 .block-categories-1 {
     background-image: url('./../img/categories_bg_01.jpg');
-    min-height: 350px;
     background-size: cover;
-    color: #fff;
+    min-height: 350px;
     border: none !important;
 }
 .block-categories-2 {
     background-image: url('./../img/categories_bg_02.jpg');
     background-size: cover;
-    color: #fff;
+    border: none !important;
+}
+.block-categories-3 {
+    background-image: url('./../img/categories_bg_03.jpg');
+    background-size: cover;
     border: none !important;
 }
