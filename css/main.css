@@ -64,11 +64,11 @@ body {
     color: #fff;
     margin-bottom: 5px;
     padding: 0 3px;
+    min-height: 350px;
 }
 .block-categories-1 {
     background-image: url('./../img/categories_bg_01.jpg');
     background-size: cover;
-    min-height: 350px;
     border: none !important;
 }
 .block-categories-2 {
@@ -83,6 +83,11 @@ body {
 }
 .block-categories-4 {
     background-image: url('./../img/categories_bg_04.jpg');
+    background-size: cover;
+    border: none !important;
+}
+.block-categories-5 {
+    background-image: url('./../img/categories_bg_05.jpg');
     background-size: cover;
     border: none !important;
 }
