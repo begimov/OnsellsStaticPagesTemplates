@@ -54,3 +54,20 @@ body {
     background-color: rgba(0, 4, 138, 0.5);
     padding-bottom: 40px;
 }
+
+.card-footer-no-border {
+    border: none !important;
+}
+.block-categories-1 {
+    background-image: url('./../img/categories_bg_01.jpg');
+    min-height: 350px;
+    background-size: cover;
+    color: #fff;
+    border: none !important;
+}
+.block-categories-2 {
+    background-image: url('./../img/categories_bg_02.jpg');
+    background-size: cover;
+    color: #fff;
+    border: none !important;
+}
