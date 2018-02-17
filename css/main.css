@@ -14,7 +14,15 @@ body {
 .block-title {
     margin-bottom: 30px;
 }
-.header {
-    background-image: url('https://iteam.ru/img/bg.jpg');
+.block-header {
+    background-image: url('./../img/header_bg.jpg');
+    background-size: cover;
     padding: 100px 20px;
+    color: #fff;
+}
+.block-header-title {
+    margin-top: 30px;
+}
+.block-header-subtitle {
+    margin-bottom: 50px;
 }
