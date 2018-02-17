@@ -32,3 +32,25 @@ body {
     background-size: cover;
     height: 200px;
 }
+
+.block-features {
+    background-image: url('./../img/features_bg.jpg');
+    background-size: cover;
+    color: #fff;
+    padding:0;
+}
+.block-features-title {
+    margin:40px 10px;
+}
+.block-features-1 {
+    background-color: rgba(122, 0, 84, 0.5);
+    padding-bottom: 40px;
+}
+.block-features-2 {
+    background-color: rgba(34, 0, 88, 0.5);
+    padding-bottom: 40px;
+}
+.block-features-3 {
+    background-color: rgba(0, 4, 138, 0.5);
+    padding-bottom: 40px;
+}
