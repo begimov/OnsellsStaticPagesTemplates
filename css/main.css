@@ -58,6 +58,7 @@ body {
 .card-footer-no-border {
     border: none !important;
     background: none;
+    background: linear-gradient(#0000, #000);
 }
 .block-categories {
     color: #fff;
@@ -77,6 +78,11 @@ body {
 }
 .block-categories-3 {
     background-image: url('./../img/categories_bg_03.jpg');
+    background-size: cover;
+    border: none !important;
+}
+.block-categories-4 {
+    background-image: url('./../img/categories_bg_04.jpg');
     background-size: cover;
     border: none !important;
 }
