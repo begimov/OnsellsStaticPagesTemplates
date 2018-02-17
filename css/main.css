@@ -27,6 +27,9 @@ body {
     margin-bottom: 50px;
 }
 
+.col-padding {
+    padding: 5px;
+}
 .block-popularpromos-header {
     background-image: url('./../img/400x200.jpg');
     background-size: cover;
@@ -55,6 +58,9 @@ body {
     padding-bottom: 40px;
 }
 
+.col-no-padding {
+    padding: 0;
+}
 .card-footer-no-border {
     border: none !important;
     background: none;
@@ -88,6 +94,26 @@ body {
 }
 .block-categories-5 {
     background-image: url('./../img/categories_bg_05.jpg');
+    background-size: cover;
+    border: none !important;
+}
+.block-categories-6 {
+    background-image: url('./../img/categories_bg_06.jpg');
+    background-size: cover;
+    border: none !important;
+}
+.block-categories-7 {
+    background-image: url('./../img/categories_bg_07.jpg');
+    background-size: cover;
+    border: none !important;
+}
+.block-categories-8 {
+    background-image: url('./../img/categories_bg_08.jpg');
+    background-size: cover;
+    border: none !important;
+}
+.block-categories-9 {
+    background-image: url('./../img/categories_bg_09.jpg');
     background-size: cover;
     border: none !important;
 }
